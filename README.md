@@ -109,10 +109,3 @@ scalable-dashboard/
 - Responsive grid layout using Tailwind CSS
 - TypeScript for compile-time error detection
 
-## Future Enhancements
-
-- Pagination for large datasets
-- Advanced filtering (multiple cities, company)
-- User preferences persistence (localStorage)
-- Dark mode support
-- Unit and integration tests
